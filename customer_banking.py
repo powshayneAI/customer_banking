@@ -18,7 +18,7 @@ def main():
 
     new_balance, interest_earned = create_cd_account(cd_balance, cd_interest_rate, cd_months)
 
-    print(f"This is the interest earned: ${interest_earned:,.2f}. This is your updated savings: ${new_balance:,.2f} after the past {months} months.")
+    print(f"This is the interest earned: ${interest_earned:,.2f}. This is your updated savings: ${new_balance:,.2f} after the past {cd_months} months.")
 
 if __name__ == "__main__":
     main()
