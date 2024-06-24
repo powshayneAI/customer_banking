@@ -8,7 +8,7 @@ To do so we utilized the usage of:
 - Classes
  - Setting classes
  - Initiating classes
- - Immporting classes
+ - Importing classes
 
 Within this challenge, User Input was utilized with occasional mathematics to 
 determine the interest earned, and the new balance after the interest earned is 
